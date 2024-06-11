@@ -1,0 +1,9 @@
+form{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+}
+
+input[type=text], input[type=submit]{
+    width:200px;
+}
